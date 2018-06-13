@@ -93,7 +93,7 @@
                     <div class="product-img">
                         <img src="{{asset('outside/img/main-product/1.jpg')}}" alt="">
                         <div class="product-img-overlay">
-                            <a href="#" class="krishok-btn">Add to cart <i class="fa fa-shopping-cart"></i></a>
+                            <<a href="#" class="krishok-btn">View detail <i class="fa fa-info-circle"></i></a>
                         </div>
                     </div>
                     <p><a href="product-details.html">Product Name</a></p>
@@ -105,7 +105,7 @@
                     <div class="product-img">
                         <img src="{{asset('outside/img/main-product/2.jpg')}}" alt="">
                         <div class="product-img-overlay">
-                            <a href="#" class="krishok-btn">Add to cart <i class="fa fa-shopping-cart"></i></a>
+                            <<a href="#" class="krishok-btn">View detail <i class="fa fa-info-circle"></i></a>
                         </div>
                     </div>
                     <p><a href="product-details.html">Product Name</a></p>
@@ -117,7 +117,7 @@
                     <div class="product-img">
                         <img src="{{asset('outside/img/main-product/3.jpg')}}" alt="">
                         <div class="product-img-overlay">
-                            <a href="#" class="krishok-btn">Add to cart <i class="fa fa-shopping-cart"></i></a>
+                            <<a href="#" class="krishok-btn">View detail <i class="fa fa-info-circle"></i></a>
                         </div>
                     </div>
                     <p><a href="product-details.html">Product Name</a></p>
@@ -129,7 +129,7 @@
                     <div class="product-img">
                         <img src="{{asset('outside/img/main-product/4.jpg')}}" alt="">
                         <div class="product-img-overlay">
-                            <a href="#" class="krishok-btn">Add to cart <i class="fa fa-shopping-cart"></i></a>
+                            <<a href="#" class="krishok-btn">View detail <i class="fa fa-info-circle"></i></a>
                         </div>
                     </div>
                     <p><a href="product-details.html">Product Name</a></p>
@@ -156,7 +156,7 @@
                     <div class="product-img">
                         <img src="{{asset('outside/img/main-product/8.jpg')}}" alt="">
                         <div class="product-img-overlay">
-                            <a href="#" class="krishok-btn">Add to cart <i class="fa fa-shopping-cart"></i></a>
+                            <<a href="#" class="krishok-btn">View detail <i class="fa fa-info-circle"></i></a>
                         </div>
                     </div>
                     <p><a href="product-details.html">Product Name</a></p>
@@ -168,7 +168,7 @@
                     <div class="product-img">
                         <img src="{{asset('outside/img/main-product/9.jpg')}}" alt="">
                         <div class="product-img-overlay">
-                            <a href="#" class="krishok-btn">Add to cart <i class="fa fa-shopping-cart"></i></a>
+                            <<a href="#" class="krishok-btn">View detail <i class="fa fa-info-circle"></i></a>
                         </div>
                     </div>
                     <p><a href="product-details.html">Product Name</a></p>
@@ -180,7 +180,7 @@
                     <div class="product-img">
                         <img src="{{asset('outside/img/main-product/5.jpg')}}" alt="">
                         <div class="product-img-overlay">
-                            <a href="#" class="krishok-btn">Add to cart <i class="fa fa-shopping-cart"></i></a>
+                            <<a href="#" class="krishok-btn">View detail <i class="fa fa-info-circle"></i></a>
                         </div>
                     </div>
                     <p><a href="product-details.html">Product Name</a></p>
@@ -192,7 +192,7 @@
                     <div class="product-img">
                         <img src="{{asset('outside/img/main-product/10.jpg')}}" alt="">
                         <div class="product-img-overlay">
-                            <a href="#" class="krishok-btn">Add to cart <i class="fa fa-shopping-cart"></i></a>
+                            <<a href="#" class="krishok-btn">View detail <i class="fa fa-info-circle"></i></a>
                         </div>
                     </div>
                     <p><a href="product-details.html">Product Name</a></p>
